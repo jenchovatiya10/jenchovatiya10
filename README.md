@@ -1,16 +1,91 @@
-## Hi there 👋
+# Hi 👋 I'm Jenish Chovatiya
 
-<!--
-**jenchovatiya10/jenchovatiya10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Development Engineer II | MERN Stack | Next.js | Team Lead
 
-Here are some ideas to get you started:
+🚀 4+ years building scalable web platforms
+⚡ Real-time apps, video streaming, and high-performance dashboards
+🎯 Focused on clean architecture, CI/CD, and UX performance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+
+### Frontend
+
+* React.js
+* Next.js
+* TypeScript
+* Tailwind CSS
+* HTML / CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* WebSockets
+
+### Database
+
+* MongoDB
+* Redis
+
+### Cloud & DevOps
+
+* AWS
+* DigitalOcean
+* CI/CD
+* GitHub Actions
+
+### Realtime & Video
+
+* Socket.io
+* Agora
+* Zoom SDK
+* Whereby
+
+---
+
+## 🚀 Featured Projects
+
+### 🎥 Video Chat Platform
+
+* Random matching
+* Livestreaming
+* Wallet system
+* Real-time chat
+* Socket.io + Agora
+
+### 📈 Stock Market Analytics
+
+* Real-time data
+* Redis caching
+* AWS deployment
+* Performance optimized
+
+### 🌐 Social Media Platform
+
+* Livestream
+* Messaging
+* Wallet
+* Realtime infrastructure
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jenchovatiya10\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jenchovatiya10\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+📧 [jenishchovatiya186@gmail.com](mailto:jenishchovatiya186@gmail.com)
+📍 Surat, India
+💼 MERN Stack Developer
+
+---
+
+⭐ Building scalable products with clean architecture & smooth UX
